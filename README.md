@@ -52,5 +52,7 @@ Consider implementing best practices for security, logging, and error handling i
 ##Further Resources##
 
 Apache Airflow: https://airflow.apache.org/
+
 AWS EC2: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
+
 Data ETL with Python: https://realpython.com/
